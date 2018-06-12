@@ -1,0 +1,2 @@
+#!/bin/bash
+/home/service/php/bin/php /home/work/inauth/public/queue.php Test login_queue
